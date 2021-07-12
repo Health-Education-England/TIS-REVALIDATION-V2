@@ -65,7 +65,7 @@
     "browserslist-useragent-regexp": "^3.0.0",
     "buffer": "^6.0.3",
     "codelyzer": "^6.0.1",
-    "cypress": "^7.2.0",
+    "cypress": "^7.7.0",
     "husky": "^6.0.0",
     "jasmine-core": "~3.7.1",
     "jasmine-spec-reporter": "~7.0.0",
